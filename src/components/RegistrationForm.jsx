@@ -63,7 +63,7 @@ export default function RegistrationForm() {
     setForm(initial);   
     setErrors({});      
     setSaved(null);     
-   
+    
   };
 
   const inputCls =
@@ -206,4 +206,5 @@ export default function RegistrationForm() {
     </div>
   );
 }
+
 
