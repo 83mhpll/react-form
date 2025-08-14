@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.test-tailwind { padding: 1rem; border-radius: 0.75rem; background: black; color: white; }
+
+
